@@ -157,6 +157,9 @@ function main{
 
 	killVelocity.
 	preDocking(200,10).
+	approachPort(200,5).
+	approachPort(150,5).
+	approachPort(100,5).
 	approachPort(80,5).
 	approachPort(60,5).
 	approachPort(40,5).
